@@ -1,0 +1,57 @@
+.background{
+    background:radial-gradient(white, #454541);
+}
+.signature{
+    margin-left: 45%;
+    margin-top: 20%;
+    color: white;
+}  
+
+.history{
+    font-size: 20px;
+    font-family: monospace;
+   margin-left:30%;
+   margin-top: 100px;
+
+}
+
+.btn {
+    width : 40px;
+    height: 40px;
+}
+.btn-lg {
+    width: 40px;
+    height: 40px;
+    background-color:#F2F5FA;
+}
+.clear{
+    width:180px;
+    font-family:bold;
+    font-size: 20px;
+}
+.reset {
+    text-align: center;
+    margin-top: 5px;
+}
+.firstRow {
+    text-align: center;
+    margin-top:5px;
+}
+.canvas {
+    margin-top: 200px;
+}
+.secondRow {
+    text-align: center;
+    margin-top: 5px;
+}
+.thirdRow {
+    text-align: center;
+    margin-top: 5px;
+}
+.fourthRow {
+    text-align: center;
+    margin-top: 5px;
+}
+.number{
+font-size: 40px;
+}
